@@ -1,4 +1,4 @@
-<!-- # ⭕ Tic-Tac-Toe RileyDory -->
+<!-- # ⭕ Tic-Tac-Toe --> RileyDory
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
